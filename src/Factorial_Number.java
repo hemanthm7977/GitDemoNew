@@ -14,6 +14,12 @@ public class Factorial_Number {
 		}
 
 		System.out.println(factorial);
+		
+		
+		System.out.println("Testing ---- GitStuffXXX11");
+		System.out.println("Testing ---- GitStuffXXX12");
+		System.out.println("Testing ---- GitStuffXXX13");
+
 
 	}
 
